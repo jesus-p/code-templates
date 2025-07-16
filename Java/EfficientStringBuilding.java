@@ -1,4 +1,4 @@
-public String fn(char[] arr) {
+EfficientStringBuildingrr) {
     StringBuilder sb = new StringBuilder();
     for (char c: arr) {
         sb.append(c);

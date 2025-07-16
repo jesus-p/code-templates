@@ -1,4 +1,4 @@
-public int fn(int[] arr, int target) {
+BinarySearch(int[] arr, int target) {
     int left = 0;
     int right = arr.length - 1;
     while (left <= right) {

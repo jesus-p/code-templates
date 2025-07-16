@@ -1,5 +1,4 @@
-public int fn(int[] arr) {
-    int left = MINIMUM_POSSIBLE_ANSWER;
+BinarySearch_LookingForMin   int left = MINIMUM_POSSIBLE_ANSWER;
     int right = MAXIMUM_POSSIBLE_ANSWER;
     while (left <= right) {
         int mid = left + (right - left) / 2;
